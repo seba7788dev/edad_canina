@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cuantos_anios_tienes">Cuantos años tienes?</string>
+    <string name="tu_edad">Tu edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="no_empty">El campo de edad no puede estar vacio</string>
+    <string name="result">Tu edad canina es %d años</string>
+
+</resources>
